@@ -2,7 +2,7 @@
   "basics": {
     "name": "Tyler Dorn",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://techfolios.github.io/_data/cropped.png",
     "email": "tdorn@hawaii.edu",
     "phone": "808-895-9608",
     "website": "https://tylergdorn.github.io",
@@ -25,11 +25,6 @@
         "username": "tyler-dorn-8612b293",
         "url": "https://www.linkedin.com/in/tyler-dorn-8612b293/"
       },
-      {
-        "network": "email",
-        "username": "",
-        "url": "tdorn@hawaii.edu"
-      }
     ]
   },
   "interests": [
