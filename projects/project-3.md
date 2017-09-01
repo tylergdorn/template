@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/judo.png
+image: ../images/judo.png
 title: Judo
 permalink: projects/cotton
 labels:
