@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: tylergdorn.github.io/images/speedreader.png
+image: ../images/speedreader.png
 title: Speedreader
 permalink: projects/speedreader
 date: 2015
@@ -12,7 +12,7 @@ summary: For a school project, I made a speedreading web application
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="tylergdorn.github.io/images/speedreader.png">
+  <img class="ui image" src="../images/speedreader.png">
 </div>
 
 Speedreader is a simple web app I made for UW CSE 154. We were required to make a speed reading app. It has three settings for word size, and a few settings for speed. It works very well.
