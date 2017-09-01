@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SpeedReader</title>
+        <link rel="stylesheet" href="speedreader.css" />
+        <script type="text/javascript" src="speedreader.js"></script>
+    </head>
+    <body>
+        <h1>SpeedReader</h1>
+        <div id="display"></div>
+        <div id="control">
+            <fieldset>
+                <legend>Play Controls:</legend>
+                <button id="start">Start</button>
+                <button id="stop">Stop</button>
+            </fieldset>
+            <fieldset>
+                <legend>Speed:</legend>
+                <select id="select">
+                    <option value="1200">50 wpm</option>
+                    <option value="200">300 wpm</option>
+                    <option value="171" selected="selected">350 wpm</option>
+                    <option value="150">400 wpm</option>
+                    <option value="133">450 wpm</option>
+                    <option value="120">500 wpm</option>
+                </select>
+            </fieldset>
+            <fieldset id="sizeRadios">
+                <legend>Size:</legend>
+                <input type="radio" name="size" value="36pt" checked>Medium
+                <input type="radio" name="size" value="48pt">Big
+                <input type="radio" name="size" value="60pt">Bigger
+            </fieldset>
+            </div>
+            <div id="flex2">
+                <fieldset>
+                    <legend>Input Text</legend>
+                    <textarea rows="10" cols="80" id="textarea"></textarea>
+                </fieldset>
+            </div>
+            <div id="links">
+                <a href="https://webster.cs.washington.edu/validate-html.php"><img src="https://webster.cs.washington.edu/images/w3c-html-blue.png" alt="w3c html validation"/></a>
+                <a href="https://webster.cs.washington.edu/validate-css.php"><img src="https://webster.cs.washington.edu/images/w3c-css-blue.png" alt="w3c css validation"/></a>
+                <a href="https://webster.cs.washington.edu/jslint/?referer"><img src="https://webster.cs.washington.edu/images/w3c-js-blue.png" alt="javascript lint validation"/></a>
+            </div>
+    </body>
+</html>
