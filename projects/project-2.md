@@ -17,4 +17,4 @@ I programmed this for a Data Structures and algorithm class at UW. In this proje
 
 From this project I learned a lot about how to test algorithms for errors and how to think about creating algorithms. I also learned some about data structures, as we had to use maps and lists to keep track of a map, and to iterate through it.
  
-Source: <a href="/myGraph.java"><i class="large github icon"></i>.java file</a>
+Source: <a href="projects/myGraph.java"><i class="large github icon"></i>.java file</a>
