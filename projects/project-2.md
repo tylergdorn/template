@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../images/dijkstras.png
+image: ../images/dijkstras.jpg
 title: Dijkstra's algorithm
 permalink: projects/dijkstras
 date: 2015
