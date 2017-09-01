@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../images/judo.png
 title: Judo
-permalink: projects/cotton
+permalink: projects/judo
 labels:
   - Judo
   - Martial Arts
