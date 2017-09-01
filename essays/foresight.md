@@ -9,9 +9,9 @@ labels:
   - Improvement
 ---
 
-<img class="ui tiny left circular floated image" src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3109&type=card">
+<img class="ui image" src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3109&type=card">
 
-Software engineering is interesting to me because there is so much that can be solved while working on software. A lot of software engineering seems to be something akin to a puzzle to be figured out. For me, that’s the most exciting part, being able to sit down and look at a puzzle, and come back to it and think it through.  As for interests more specifically, I enjoy being able to think about how to setup the application on a very high level is fun to do. It requires a lot of foresight, and is one of the harder things to do well.
+Software engineering is interesting to me because there is so much that can be solved while working on software. A lot of software engineering seems to be something akin to a puzzle to be figured out. For me, that’s the most exciting part, being able to sit down and look at a puzzle, and come back to it and think it through.  As for interests, I enjoy being able to think about how to set up the application on a very high level. It requires a lot of foresight, and is one of the harder things to do well.
 
 At the end of this class, I hope to be more skilled at not only being able to effectively communicate my ideas but also to work better in teams in general. As a computer science student, you spend a lot of your time doing solitary projects, and only speaking to others when you need help, or when you must speak to your teacher. Along the same vein, I hope to form a good group of friends in the class, who would be around me for the rest of my computer science career, who I can turn to when I need help, both in and outside the classroom. Being a transfer student as of this year, this is a little more important to me than it may be to others.
   
