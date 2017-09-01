@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../images/dijkstras.png
 title: Dijkstra's algorithm
-permalink: projects/vacay
+permalink: projects/dijkstras
 date: 2015
 labels:
   - Java
