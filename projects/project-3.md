@@ -9,7 +9,9 @@ labels:
   - Martial Arts
 summary: A hobby of college, and one that i've gotten medals for, Judo
 ---
-
+ 
+   <img class="ui image" src="../images/medal.jpg">
+ 
 In my freshman year, I started learning Judo, and I have been for the past 3 years. While seemingly completely unrelated to software development, there are some parallels to be had. In much the same way, you need to constantly practice to be at the peak of your capabilities at all time. 
 
 Last year I placed third at the Continental Crown Judo Tournament in Seattle. This was a great accomplishment for me because I was able to get a medal. This was somewhat dampened by the fact that there was only three people competing in my weight division. But hey, still counts.
