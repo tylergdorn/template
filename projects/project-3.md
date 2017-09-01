@@ -10,7 +10,7 @@ labels:
 summary: A hobby of college, and one that i've gotten medals for, Judo
 ---
  
-   <img class="ui image" src="../images/medal.jpg">
+   <img class="ui small right floated rounded image" src="../images/medal.jpg">
  
 In my freshman year, I started learning Judo, and I have been for the past 3 years. While seemingly completely unrelated to software development, there are some parallels to be had. In much the same way, you need to constantly practice to be at the peak of your capabilities at all time. 
 
