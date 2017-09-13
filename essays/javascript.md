@@ -6,7 +6,7 @@ date: 2017-09-01
 labels:
   - JavaScript
   - Software Engineering
-  - 314
+  - ICS 314
 ---
 
 <img class="ui small left floated rounded image" src="../images/javascript_logo.png">
