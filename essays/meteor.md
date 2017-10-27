@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Meteor"
-date: 2017-10-
+date: 2017-10-26
 labels:
   - PHP
   - Meteor
