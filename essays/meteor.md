@@ -9,7 +9,7 @@ labels:
 ---
 
 
-<img class="ui image" src="https://atomate.net/hire-javascript-developers/united-kingdom/london/img/meteor.png">
+<img class="ui image float left" src="https://atomate.net/hire-javascript-developers/united-kingdom/london/img/meteor.png">
 
 Meteor is challenging at times, but it is exciting, and will become more and more interesting to me as I continue to learn about it and become better at using the framework. There is a lot you can do and a lot of things you can change. The fact that I can write (almost) the entire thing in JavaScript is a lot of fun, as the traditional model of making web applications would involve at the very least both JavaScript and PHP, as well as likely SQL. With meteor, (excluding things such as blaze and HTML) you only use Javascript! This allows for a bit more interplay. With PHP and SQL you had to open a PHP object, and pass commands to it. 
 
