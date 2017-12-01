@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Meteor"
+title: "Ethics in Coding"
 date: 2017-11-30
 labels:
   - Ethics
