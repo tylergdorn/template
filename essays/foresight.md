@@ -10,7 +10,7 @@ labels:
   - ICS 314
 ---
 
-<img class="ui right floated image" src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3109&type=card">
+<img class="ui left floated image" src="http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=3109&type=card">
 
 Software engineering is interesting to me because there is so much that can be solved while working on software. A lot of software engineering seems to be something akin to a puzzle to be figured out. For me, that’s the most exciting part, being able to sit down and look at a puzzle, and come back to it and think it through.  As for interests, I enjoy being able to think about how to set up the application on a very high level. It requires a lot of foresight, and is one of the harder things to do well.
 
