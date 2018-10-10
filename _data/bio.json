@@ -24,15 +24,15 @@
         "network": "linkedin",
         "username": "tyler-dorn-8612b293",
         "url": "https://www.linkedin.com/in/tyler-dorn-8612b293/"
-      },
+      }
     ]
   },
   "interests": [
     {
-      "name": "Cryptocurrency",
+      "name": "Networking",
       "keywords": [
-        "Ethereum",
-        "Bitcoin Cash"
+        "DNS",
+        "HTTP"
       ]
     },
     {
@@ -50,10 +50,10 @@
       ]
     },
     {
-      "name": "Security",
+      "name": "Data",
       "keywords":[
-        "Pentesting",
-        "Exploits"
+        "Visualization",
+        "Management"
       ]
     }
   ],
@@ -62,10 +62,10 @@
       "name": "Languages",
       "level": "",
       "keywords": [
-        "C",
+        "Python",
         "Java",
         "Javascript",
-        "Ruby"
+        "HTML"
       ]
     },
     {
@@ -82,13 +82,12 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2019)",
+      "area": "Computer Science (expected December, 2019)",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "4.0",
-      "courses": ["ICS 314"
-      ]
+      "gpa": "3.9",
+      "courses": ["Data Visualization", "Networks", "Data Structures", "Systems"]
     }
   ],
   "work": [

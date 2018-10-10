@@ -1,13 +1,14 @@
 ---
 layout: project
 type: project
-image: ../images/checc.png
-title: Open Table Checkers
+image: ../images/choleraThumb.png
+title: Cholera Visualization
 permalink: projects/Checkers
 labels:
   - Javascript
   - HTML
   - Plot.ly
+  - Leaflet
 summary: An online visualization of cholera data.
 ---
 
@@ -23,4 +24,4 @@ I made the title bar with Bootstrap, which I've grown to enjoy.
 
 Here is the map I made with leafletjs. Leaflet I had no real issues with, as it lets you make a map, and you can do almost anything with it, here I added circles that can be clicked on on top of the map.
 
-<a href="../cholera/">You can access the map here</a>
+<a href="../cholera/">You can access the site here</a>
