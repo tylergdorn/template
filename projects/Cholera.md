@@ -3,7 +3,7 @@ layout: project
 type: project
 image: ../images/choleraThumb.png
 title: Cholera Visualization
-permalink: projects/Checkers
+permalink: projects/Cholera
 labels:
   - Javascript
   - HTML
