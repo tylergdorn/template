@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png
+image: ../images/python.png
 title: Accounts Compare
 permalink: projects/AccountsCompare
 labels:
