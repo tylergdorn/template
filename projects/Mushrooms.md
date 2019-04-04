@@ -11,7 +11,7 @@ labels:
 summary: A visualization of mushroom data
 ---
 
-# Mushrooms
+# Intro
 
 This was made for a group final project for our data visualization class at UH Manoa.
 Me and three other people worked on this over the course of a week or two, and we had one of the better visualizations in the class.
@@ -27,7 +27,7 @@ This made the data much bigger, but it did not end up having a significant impac
 
 You can see it <a href="extrathick.github.io">here</a>
 
-## Calculator
+# Calculator
 
 The calculator was the biggest challenge for me in this assignment. The data we have is rather unnatural in how it's laid out. There are some attributes which "exist" in the dataset but in reality aren't present.
 This led to the case where when calculating the edibility of the traits selected we had to say that there was "no data found", as I couldn't think of a way to make any suggestions to the edibility of the chosen things without distorting what the data actually said greatly.
@@ -38,7 +38,7 @@ the calculator working
 <img class="ui image" src="../images/nosuchexamples.png">
 The calculator when it has no data
 
-## Sunburst
+# Sunburst
 
 <img class="ui image" src="../images/sunburst.png">
 
