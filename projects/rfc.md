@@ -65,6 +65,36 @@ We can test this out. Here's what we get:
 
 Not exactly what we were looking for!
 
+We can fix this however by passing the i into the anonymous function, so that the i is kept for the function when it runs. 
+When we do this we should see the right result.
+
+```go
+4
+0
+1
+5
+3
+7
+6
+8
+9
+2
+```
+
+Note that the numbers aren't in order, that's because goroutines don't run in any given order, and go makes no assertions as to when they'll run but they do run eventually, leading to the "random" order we see them in.
+
+Here's what the corrected code looks like:
+
+```go
+for i := 0; i < 10; i++ {
+    go func(j int) {
+        fmt.Println(j)
+    }(i)
+}
+```
+
+In the corrected version we pass i to the function so that we know each function will get a different i, since the i is stored for the function.
+
 Another issue I ran into wasn't a concurrency issue but was an issue nonetheless.
 When a goroutine ran into an error (because it couldn't find the RFC it was trying to download) it would cause the program to run forever.
 Odd.
