@@ -42,3 +42,5 @@ For this I used the following:
 PySimpleGUI is a little too simple at times, but it worked for my needs, as I only had those two screens and a couple of error screens.
 
 I also used the logging module in python for the first time with this project, and use it to make a log file. I really like the logging module in python, and I wish I knew to use it earlier.
+
+<a href="https://github.com/tylergdorn/AccountsCompare">You can find the project here</a>
