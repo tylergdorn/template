@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../images/ieee.png
+image: ../images/ieee.jpg
 title: RFC Downloader
 permalink: projects/RFC
 labels:
