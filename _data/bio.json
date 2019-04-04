@@ -6,10 +6,10 @@
     "email": "tdorn@hawaii.edu",
     "phone": "808-895-9608",
     "website": "https://tylergdorn.github.io",
-    "summary": "I am currently studying at The University of Hawaii at Manoa. I am studying for a BS of Computer Science. I will graduate in Fall, 2019.",
+    "summary": "I am a BS Graduate from the University of Hawaii at Manoa",
     "location": {
-      "address": "73-4345 Paani pl",
-      "postalCode": "96740",
+      "address": "",
+      "postalCode": "",
       "city": "Kailua-Kona",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -32,13 +32,15 @@
       "name": "Networking",
       "keywords": [
         "DNS",
-        "HTTP"
+        "HTTP",
+        "TCP",
+        "UDP"
       ]
     },
     {
       "name": "Servers",
       "keywords": [
-        "Apache",
+        "Linux",
         "Management"
       ]
     },
@@ -65,7 +67,7 @@
         "Python",
         "Java",
         "Javascript",
-        "HTML"
+        "Golang"
       ]
     },
     {
@@ -73,8 +75,7 @@
       "level": "",
       "keywords": [
         "Windows 98 - 10",
-        "Ubuntu",
-        "Ubuntu Server",
+        "Linux",
         "OSX"
       ]
     }
@@ -82,11 +83,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected December, 2019)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "Present",
-      "gpa": "3.9",
+      "gpa": "3.91",
       "courses": ["Data Visualization", "Networks", "Data Structures", "Systems"]
     }
   ],
